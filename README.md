@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vellarasan&show_icons=true&locale=en" alt="vellarasan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vellarasan&" alt="vellarasan" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=vellarasan)](https://git.io/streak-stats)" alt="vellarasan" /></p>
