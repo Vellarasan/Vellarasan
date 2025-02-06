@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **OpenSource projects**
 
-- 🌱 I’m currently learning **Cloud, AWS, Kafka**
+- 🌱 I’m currently learning **Cloud, AWS, AI, DSA**
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Spring, AWS**
 
 - 📫 How to reach me **vellarasan21@gmail.com**
 
