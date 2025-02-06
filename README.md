@@ -40,5 +40,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vellarasan&show_icons=true&locale=en" alt="vellarasan" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats-hwxu45el9-vellarasans-projects.vercel.app?user=Vellarasan&theme=transparent&hide_border=true&border_radius=3)](https://git.io/streak-stats)
+<p>
+    <a href="https://github.com/Vellarasan">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vellarasan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Vellarasan&theme=transparent&hide_border=true&border_radius=3"/>
+    </a>
+</p>
 
