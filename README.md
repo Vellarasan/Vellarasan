@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vellarasan</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Java developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vellarasan&label=Profile%20views&color=0e75b6&style=flat" alt="vellarasan" /> </p>
 
@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vellarasan&show_icons=true&locale=en" alt="vellarasan" /></p>
 
-<p>
+<p align="center">
     <a href="https://github.com/Vellarasan">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vellarasan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Vellarasan&theme=transparent&hide_border=true&border_radius=3"/>
