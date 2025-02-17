@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/vellarasan21" target="blank"><img src="https://img.shields.io/twitter/follow/vellarasan21?logo=twitter&style=for-the-badge" alt="vellarasan21" /></a> </p>
 
-- 🔭 I’m currently working on **OpenSource projects**
+- 🔭 I’m currently working on **Spring Boot AI Projects**
 
-- 🌱 I’m currently learning **Cloud, AWS, AI, DSA**
+- 🌱 I’m currently learning **AI, RAG, Prompt Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
